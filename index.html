@@ -1,124 +1,221 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/styles.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
     <title>Tienda</title>
-</head>
-<body class="min-vh-100">
+  </head>
+  <body class="min-vh-100">
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary p-3 fs-4" data-bs-theme="dark">
-            <div class="container-fluid">
-              <a class="navbar-brand" href="#">TIENDA</a>
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                  <a class="nav-link active" aria-current="page" href="#">Home</a>
-                  <a class="nav-link" href="#">Categorias</a>
-                  <a class="nav-link" href="#">Ofertas</a>
-                  <a class="nav-link" href="#">Contacto</a>
-                </div>
-              </div>
+      <nav
+        class="navbar navbar-expand-lg bg-body-tertiary p-3 fs-4"
+        data-bs-theme="dark"
+      >
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">TIENDA</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div
+            class="collapse navbar-collapse justify-content-end"
+            id="navbarNavAltMarkup"
+          >
+            <div class="navbar-nav">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link" href="#">Categorias</a>
+              <a class="nav-link" href="#">Ofertas</a>
+              <a class="nav-link" href="#">Contacto</a>
             </div>
-          </nav>
-        
+          </div>
+        </div>
+      </nav>
     </header>
 
     <main class="container-fluid">
-        <div>
-            <h1 class="h1 text-center mt-4 ">Productos</h1>
-        </div>
-        
-        <div class="row row-cols-1 row-cols-md-3 g-4 text-center">
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/notebook-lenovo.webp" class="card-img-top img--notebook" alt="Notebook Lenovo.">
-              <div class="card-body">
-                <h5 class="card-title">Lenovo IdeaPad 3i1</h5>
-                <p class="card-text">La notebook Lenovo 81X700FVUS es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
+      <div>
+        <h1 class="h1 text-center mt-4">Productos</h1>
+      </div>
+
+      <div class="row row-cols-1 row-cols-md-3 g-4 text-center">
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/notebook-lenovo.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook Lenovo."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Lenovo IdeaPad 3i1</h5>
+              <p class="card-text pt-3">
+                La notebook Lenovo 81X700FVUS es una solución tanto para
+                trabajar y estudiar como para entretenerte. Al ser portátil, el
+                escritorio dejará de ser tu único espacio de uso para abrirte
+                las puertas a otros ambientes ya sea en tu casa o en la oficina.
+              </p>
             </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/notbook-bangho.webp" class="card-img-top img--notebook" alt="Notebook Bangho">
-              <div class="card-body">
-                <h5 class="card-title">Bangho Max L5 </h5>
-                <p class="card-text">Podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal.
-                </p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/notebookhp.webp" class="card-img-top img--notebook" alt="Notebook HP">
-              <div class="card-body">
-                <h5 class="card-title">Hp Amd Ryzen 7 5700u</h5>
-                <p class="card-text">La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/notebook-dell2.webp" class="card-img-top img--notebook" alt="Notebook Dell">
-              <div class="card-body">
-                <h5 class="card-title">Dell Inspiron 3511</h5>
-                <p class="card-text">Los equipos Dell se destacan por ofrecer soluciones reales para cada una de las necesidades. Ya sea para conectarte, entretenerte, trabajar o colaborar de manera online, podrás hacerlo de forma segura desde cualquier lugar y en cualquier momento.</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/notebook-msi.webp" class="card-img-top img--notebook" alt="Notebook gamer MSI">
-              <div class="card-body">
-                <h5 class="card-title">Gamer MSI Thin GF63</h5>
-                <p class="card-text">La notebook MSI Thin GF63 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card h-100">
-              <img src="img/mon-namsung.webp" class="card-img-top img--notebook" alt="Notebook Samsung">
-              <div class="card-body">
-                <h5 class="card-title">Samsung Galaxy Book3 15.6</h5>
-                <p class="card-text">La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.</p>
-              </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Más Detalles</small>
-              </div>
+            <div class="card-footer">
+              <a href=""
+                ><small class="text-body-secondary"
+                  ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+              ></a>
             </div>
           </div>
         </div>
-
-
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/notbook-bangho.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook Bangho"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Bangho Max L5</h5>
+              <p class="card-text pt-3">
+                Podrás llevar tus archivos y documentos a todos lados gracias a
+                su ligero peso y reducido tamaño sin perder prestaciones, ya que
+                su pantalla es de 15.6 pulgadas y su definición HD harán que tu
+                visualización sea completa e ideal.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href=""
+                ><small class="text-body-secondary"
+                  ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/notebookhp.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook HP"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Hp Amd Ryzen 7 5700u</h5>
+              <p class="card-text pt-3">
+                La fusión perfecta entre el máximo desempeño y el mejor diseño
+                para tus días más productivos y desafiantes, todo eso y más en
+                la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href=""
+                ><small class="text-body-secondary"
+                  ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/notebook-dell2.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook Dell"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Dell Inspiron 3511</h5>
+              <p class="card-text pt-3">
+                Los equipos Dell se destacan por ofrecer soluciones reales para
+                cada una de las necesidades. Ya sea para conectarte,
+                entretenerte, trabajar o colaborar de manera online, podrás
+                hacerlo de forma segura desde cualquier lugar y en cualquier
+                momento.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href=""
+              ><small class="text-body-secondary"
+                ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+            ></a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/notebook-msi.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook gamer MSI"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Gamer MSI Thin GF63</h5>
+              <p class="card-text pt-3">
+                La notebook MSI Thin GF63 es una solución tanto para trabajar y
+                estudiar como para entretenerte. Al ser portátil, el escritorio
+                dejará de ser tu único espacio de uso para abrirte las puertas a
+                otros ambientes ya sea en tu casa o en la oficina.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href=""
+                ><small class="text-body-secondary"
+                  ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+              ></a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <img
+              src="img/mon-namsung.webp"
+              class="card-img-top img--notebook"
+              alt="Notebook Samsung"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Samsung Galaxy Book3 15.6</h5>
+              <p class="card-text pt-3">
+                La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución
+                tanto para trabajar y estudiar como para entretenerte. Al ser
+                portátil, el escritorio dejará de ser tu único espacio de uso
+                para abrirte las puertas a otros ambientes ya sea en tu casa o
+                en la oficina.
+              </p>
+            </div>
+            <div class="card-footer">
+              <a href=""
+                ><small class="text-body-secondary"
+                  ><i class="bi bi-zoom-in fw-bold fs-3"></i></small
+              ></a>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
 
-    <footer>
-      <div class="conteiner-fluid text-center text-white fw-bold bg-dark align-content-center" >
-        <p class="parrafo-pie p-4 m-0">&copy; 2023 Copyright </p>
+    <footer class="mt-4">
+      <div
+        class="conteiner-fluid text-center text-white fw-bold bg-dark align-content-center"
+      >
+        <p class="parrafo-pie p-4 m-0">&copy; 2023 Copyright</p>
       </div>
     </footer>
     <script src="js/script.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-</body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
