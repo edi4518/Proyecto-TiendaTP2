@@ -1,0 +1,85 @@
+[
+  {
+    "id": "Producto 1",
+
+    "titulo": "Lenovo IdeaPad 3i",
+
+    "Descripcion": "La notebook Lenovo 81X700FVUS es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "Marca": "Lenovo",
+
+    "Modelo": "81X700FVUS",
+
+    "Precio": "$415.000"
+  },
+
+  {
+    "id": "Producto 2",
+
+    "titulo": "Bangho Max L5",
+
+    "Descripcion": "Con la Notebook Banghó Max L5, podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal.",
+
+    "Marca": "Bangho",
+
+    "Modelo": "Max L5",
+
+    "Precio": "$462.999"
+  },
+
+  {
+    "id": "Producto 3",
+
+    "titulo": "Hp Amd Ryzen 7 5700u",
+
+    "Descripcion": "La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.",
+
+    "Marca": "Hewlett-Packard",
+
+    "Modelo": "15-ef2081ms",
+
+    "Precio": "$786.147"
+  },
+
+  {
+    "id": "Producto 4",
+
+    "titulo": "Dell Inspiron 3511",
+
+    "Descripcion": "Los equipos Dell se destacan por ofrecer soluciones reales para cada una de las necesidades. Ya sea para conectarte, entretenerte, trabajar o colaborar de manera online, podrás hacerlo de forma segura desde cualquier lugar y en cualquier momento.",
+
+    "Marca": "Dell",
+
+    "Modelo": "Inspiron 3511",
+
+    "Precio": "$462.744"
+  },
+
+  {
+    "id": "Producto 5",
+
+    "titulo": "Gamer MSI Thin GF63 ",
+
+    "Descripcion": "La notebook MSI Thin GF63 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "Marca": "MSI",
+
+    "Modelo": "Thin GF63",
+
+    "Precio": "$799.999"
+  },
+
+  {
+    "id": "Producto 6",
+
+    "titulo": "Samsung Galaxy Book3 15.6",
+
+    "Descripcion": "La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "Marca": "Samsung",
+
+    "Modelo": "Galaxy Book3 NP750XFG-KB2AR",
+
+    "Precio": "$589.999"
+  }
+]
