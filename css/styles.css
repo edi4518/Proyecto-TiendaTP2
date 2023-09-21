@@ -12,7 +12,22 @@ body{
     height:50%;
 
 }
+.img--modal{
+    width:55%;
+    height:55%;
+}
 
+.boton--close{
+    font-size: 1.5rem;
+    width: 50%;
+    background-color: rgb(0, 0, 160);
+}
+
+.boton--close:hover{
+    font-size: 1.5rem;
+    width: 50%;
+    background-color: rgba(1, 1, 72, 0.992);
+}
 /* 
 .parrafo-pie{
     width: 100%;
