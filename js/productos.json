@@ -4,13 +4,18 @@
 
     "titulo": "Lenovo IdeaPad 3i",
 
-    "Descripcion": "La notebook Lenovo 81X700FVUS es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+    "descripcion": "La notebook Lenovo 81X700FVUS es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
 
-    "Marca": "Lenovo",
+    "imagen": "img/notebook-lenovo.webp",
 
-    "Modelo": "81X700FVUS",
+    "marca": "Lenovo",
 
-    "Precio": "$415.000"
+    "modelo": "81X700FVUS",
+
+    "precio": "$415.000",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐"
+
   },
 
   {
@@ -18,13 +23,17 @@
 
     "titulo": "Bangho Max L5",
 
-    "Descripcion": "Con la Notebook Banghó Max L5, podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal.",
+    "descripcion": "Con la Notebook Banghó Max L5, podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal.",
 
-    "Marca": "Bangho",
+    "imagen": "img/notbook-bangho.webp",
 
-    "Modelo": "Max L5",
+    "marca": "Bangho",
 
-    "Precio": "$462.999"
+    "modelo": "Max L5",
+
+    "precio": "$462.999",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐"
   },
 
   {
@@ -32,13 +41,17 @@
 
     "titulo": "Hp Amd Ryzen 7 5700u",
 
-    "Descripcion": "La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.",
+    "descripcion": "La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.",
 
-    "Marca": "Hewlett-Packard",
+    "imagen": "img/notebookhp.webp",
 
-    "Modelo": "15-ef2081ms",
+    "marca": "Hewlett-Packard",
 
-    "Precio": "$786.147"
+    "modelo": "15-ef2081ms",
+
+    "precio": "$786.147",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐ ⭐"
   },
 
   {
@@ -46,13 +59,17 @@
 
     "titulo": "Dell Inspiron 3511",
 
-    "Descripcion": "Los equipos Dell se destacan por ofrecer soluciones reales para cada una de las necesidades. Ya sea para conectarte, entretenerte, trabajar o colaborar de manera online, podrás hacerlo de forma segura desde cualquier lugar y en cualquier momento.",
+    "descripcion": "Los equipos Dell se destacan por ofrecer soluciones reales para cada una de las necesidades. Ya sea para conectarte, entretenerte, trabajar o colaborar de manera online, podrás hacerlo de forma segura desde cualquier lugar y en cualquier momento.",
 
-    "Marca": "Dell",
+    "imagen": "img/notebook-dell2.webp",
 
-    "Modelo": "Inspiron 3511",
+    "marca": "Dell",
 
-    "Precio": "$462.744"
+    "modelo": "Inspiron 3511",
+
+    "precio": "$462.744",
+
+    "puntuacion": " ⭐ ⭐ ⭐ "
   },
 
   {
@@ -60,13 +77,17 @@
 
     "titulo": "Gamer MSI Thin GF63 ",
 
-    "Descripcion": "La notebook MSI Thin GF63 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+    "descripcion": "La notebook MSI Thin GF63 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
 
-    "Marca": "MSI",
+    "imagen": "img/notebook-msi.webp",
 
-    "Modelo": "Thin GF63",
+    "marca": "MSI",
 
-    "Precio": "$799.999"
+    "modelo": "Thin GF63",
+
+    "precio": "$799.999",
+
+    "puntuacion": " ⭐ ⭐ ⭐ "
   },
 
   {
@@ -74,12 +95,16 @@
 
     "titulo": "Samsung Galaxy Book3 15.6",
 
-    "Descripcion": "La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+    "descripcion": "La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "imagen": "img/notbook-samsung.webp",
 
     "Marca": "Samsung",
 
     "Modelo": "Galaxy Book3 NP750XFG-KB2AR",
 
-    "Precio": "$589.999"
+    "Precio": "$589.999",
+
+     "puntuacion" : "⭐ ⭐ ⭐ ⭐ ⭐"
   }
 ]

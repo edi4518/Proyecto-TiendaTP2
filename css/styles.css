@@ -40,3 +40,20 @@ body{
 footer{
     margin-top: 15px;
 } */
+
+
+
+.contenedor--card{
+    margin:  8px auto;
+    text-align: center;
+}
+
+.list-item{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+footer{
+    height: 3%;
+}
