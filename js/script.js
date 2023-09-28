@@ -25,7 +25,7 @@ listaProductos();
 
 const listadoProductos = JSON.parse(localStorage.getItem("listado"));
 
-
+// Recorro el json para agregar los items a la home
 
 listadoProductos.forEach(producto => {
     let content = document.createElement("div");
