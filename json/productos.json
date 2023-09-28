@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Producto 1",
+
+    "titulo": "Lenovo IdeaPad 3i",
+
+    "descripcion": "La notebook Lenovo 81X700FVUS es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "descripcion-detallada" : "Su pantalla de 14 pulgadas te brindará colores más vivos y definidos. La pantalla de la computadora portátil, tiene una impresionante relación pantalla-cuerpo del 88 %, gracias a sus biseles angostos de cuatro lados. Su pantalla antirreflejo FHD (1920 x 1080) de 14 pulgadas está disponible en hasta 300 nits, para una experiencia de visualización brillante. Su procesador Intel Core i5 te permitirá ejecutar programas variados y procesos indispensables para desenvolverte en el día a día, ya sea en tu trabajo o en los momentos de ocio en tu hogar.",
+
+    "imagen": "img/notebook-lenovo.webp",
+
+    "imagen2": "img/notebook-lenovo2.webp",
+
+    "imagen3": "img/notebook-lenovo3.webp",
+
+    "marca": "Lenovo",
+
+    "modelo": "81X700FVUS",
+
+    "precio": "$415.000",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐"
+
+  },
+
+  {
+    "id": "Producto 2",
+
+    "titulo": "Bangho Max L5",
+
+    "descripcion": "Con la Notebook Banghó Max L5, podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal.",
+
+    "descripcion-detallada" :"Con la Notebook Banghó Max L5, podrás llevar tus archivos y documentos a todos lados gracias a su ligero peso y reducido tamaño sin perder prestaciones, ya que su pantalla es de 15.6 pulgadas y su definición HD harán que tu visualización sea completa e ideal. Además, toda la conectividad a tu alcance con una gran variedad de puertos, como por ejemplo USB, HDMI, Wifi y Bluetooth. También podrás almacenar todos tus documentos, pdf, fotos y más sin ningún problema gracias a sus 8GB de Memoria RAM, 240GB de Capacidad de Almacenamiento y su Procesador Intel Core i5-10210U (10ma. Generación) que hará que tu computadora sea rápida y ágil por mas archivos que le desees descargar.",
+
+    "imagen": "img/notbook-bangho.webp",
+
+    "imagen2": "notbook-bangho2.webp",
+
+    "imagen3": "notbook-bangho3.webp",
+
+    "marca": "Bangho",
+
+    "modelo": "Max L5",
+
+    "precio": "$462.999",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐"
+  },
+
+  {
+    "id": "Producto 3",
+
+    "titulo": "Hp Amd Ryzen 7 5700u",
+
+    "descripcion": "La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD.",
+
+    "descripcion-detallada": "La fusión perfecta entre el máximo desempeño y el mejor diseño para tus días más productivos y desafiantes, todo eso y más en la nueva HP 15-EF2081MS RYZEN 7 5700U TOUCH 12GB RAM 256GB SSD. Manténgase conectado con lo que más le importa con una batería de larga duración y un diseño de bisel delgado con microbordes. La laptop HP de 15,6 pulgadas en diagonal ofrece un rendimiento confiable y una pantalla amplia, lo que lo mantiene productivo y entretenido mientras transmite, navega y acelera las tareas desde cualquier lugar.Empuje el límite para la informática de escritorio con los procesadores AMD Ryzen 7. Su nueva y audaz arquitectura ofrece refrigeración intuitiva y procesamiento multinúcleo para juegos, transmisión, creatividad, realidad virtual y más.", 
+
+    "imagen": "img/notebookhp.webp",
+
+    "imagen2": "img/notebookhp2.webp",
+
+    "imagen3": "img/notebookhp3.webp",
+
+    "marca": "Hewlett-Packard",
+
+    "modelo": "15-ef2081ms",
+
+    "precio": "$786.147",
+
+    "puntuacion": " ⭐ ⭐ ⭐ ⭐ ⭐"
+  },
+
+  {
+    "id": "Producto 4",
+
+    "titulo": "Dell Inspiron 3511",
+
+    "descripcion": "Los equipos Dell se destacan por ofrecer soluciones reales para cada una de las necesidades. Ya sea para conectarte, entretenerte, trabajar o colaborar de manera online, podrás hacerlo de forma segura desde cualquier lugar y en cualquier momento.",
+
+    "descripcion-detallada": "Su pantalla LCD de 15.6 pulgadas y 1920x1080 px de resolución te brindará colores más vivos y definidos. Tus películas y series preferidas cobrarán vida, ya que ganarán calidad y definición en cada detalle    Su procesador Intel Core i5 de 4 núcleos, está pensado para aquellas personas generadoras y consumidoras de contenidos. Con esta unidad central, la máquina llevará a cabo varios procesos de forma simultánea, desde edición de videos hasta retoques fotográficos con programas profesionales.",
+
+    "imagen": "img/notebook-dell.webp",
+
+    "imagen2": "img/notebook-dell2.webp",
+
+    "imagen3": "img/notebook-dell3.webp",
+
+    "marca": "Dell",
+
+    "modelo": "Inspiron 3511",
+
+    "precio": "$462.744",
+
+    "puntuacion": " ⭐ ⭐ ⭐ "
+  },
+
+  {
+    "id": "Producto 5",
+
+    "titulo": "Gamer MSI Thin GF63 ",
+
+    "descripcion": "La notebook MSI Thin GF63 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "descripcion-detallada": "Su pantalla de 15.6 pulgadas y 1920x1080 px de resolución te brindará colores más vivos y definidos. Tus películas y series preferidas cobrarán vida, ya que ganarán calidad y definición en cada detalle. Su placa de video NVIDIA GeForce GTX 1650 convierte a este dispositivo en una gran herramienta de trabajo para cualquier profesional del diseño. Te permitirá lograr una gran performance en todos tus juegos y en otras tareas cotidianas que impliquen procesamiento gráfico.",
+
+    "imagen": "img/notebook-msi.webp",
+
+    "imagen2": "img/notebook-msi2.webp",
+
+    "imagen3": "img/notebook-msi3.webp",
+
+    "marca": "MSI",
+
+    "modelo": "Thin GF63",
+
+    "precio": "$799.999",
+
+    "puntuacion": " ⭐ ⭐ ⭐ "
+  },
+
+  {
+    "id": "Producto 6",
+
+    "titulo": "Samsung Galaxy Book3 15.6",
+
+    "descripcion": "La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+
+    "descripcion-detallada": "La notebook Samsung Galaxy Book3 NP750XFG-KB2AR es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina. Su procesador Intel Core i5, te permitirá ejecutar programas variados y procesos indispensables para desenvolverte en el día a día, ya sea en tu trabajo o en los momentos de ocio en tu hogar. El disco sólido de 512 GB hace que el equipo funcione a gran velocidad y por lo tanto te brinda mayor agilidad para operar con diversos programas.",
+    
+    "imagen": "img/notbook-samsung.webp",
+
+    "imagen2": "img/notbook-samsung2.webp",
+
+    "imagen3": "img/notbook-samsung3.webp",
+
+    "Marca": "Samsung",
+
+    "Modelo": "Galaxy Book3 NP750XFG-KB2AR",
+
+    "Precio": "$589.999",
+
+     "puntuacion" : "⭐ ⭐ ⭐ ⭐ ⭐"
+  }
+]
