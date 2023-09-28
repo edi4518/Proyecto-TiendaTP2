@@ -38,7 +38,7 @@ listadoProductos.forEach(producto => {
                 alt="${producto.titulo}"
               />
               <div class="card-body">
-                <h4 class="card-title">Lenovo IdeaPad 3i</h4>
+                <h4 class="card-title">${producto.titulo}</h4>
                 <p class="card-text pt-3">${producto.descripcion}
                 </p>
               </div>
