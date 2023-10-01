@@ -76,3 +76,15 @@ footer{
     font-size: 1.4rem;
     font-weight: bold;
 }
+
+.card-productos{
+    border-color: black;
+    border-radius: 15px;
+    border: 3px solid;
+    box-shadow: 10px 10px 8px 4px rgba(128, 128, 128, 0.372);
+  
+}
+
+.img--notebook{
+    margin: auto;
+}
