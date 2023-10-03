@@ -62,6 +62,6 @@ document.addEventListener("click", (event) => {
   if (event.target.tagName == "I") {
     console.log(event.target.dataset.id);
     localStorage.setItem("id", event.target.dataset.id);
-    window.location.href = "detalles.html";
+    // window.location.href = "detalles.html";
   }
 });
