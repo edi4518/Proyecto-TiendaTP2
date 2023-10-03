@@ -88,3 +88,7 @@ footer{
 .img--notebook{
     margin: auto;
 }
+
+.punio-cerrado{
+    opacity: .7;
+}
