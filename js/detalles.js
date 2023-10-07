@@ -16,7 +16,7 @@ if(filtrado){
       contenedorDetalles.className = "card contenedor--card justify-content-start";
 
       contenedorDetalles.innerHTML = ` 
-      <div id="carouselExampleAutoplaying" class="carousel slide w-50 mx-auto" data-bs-ride="carousel">
+      <div id="carouselExampleAutoplaying" class="carousel slide mx-auto" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="${filtrado.imagen}" class="d-block w-100 img--detalles" alt="${filtrado.titulo}">
